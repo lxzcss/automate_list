@@ -9,7 +9,7 @@ a fictitious company
 If you wanna try it, just go in "auxiliar.py" and find the correct spots for your monitor
 You just need to run the Python Project and leave the pointer in the right place
 
-When you have done all configs, just run the project and you will see the magic!
+When you have done all configs, just run the project and you will see the magic!!
 
 -------------------------------------------------------------------------------------------
 PORTUGUÊS
@@ -23,4 +23,4 @@ para uma empresa fictícia
 Se você quiser testar, vá para o "auxiliar.py" e encontre o pixel correto do seu monitor
 Você só precisar iniciar o projeto e deixar o ponteiro do mouse no lugar certo
 
-Quando você terminar suas configs, é só iniciar o projeto e você verá a mágica!
+Quando você terminar suas configs, é só iniciar o projeto e você verá a mágica!!
